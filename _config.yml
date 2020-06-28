@@ -21,13 +21,25 @@
 title: Tech Talk
 email: vksgaikawd3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my blog site !
+  Tech Talk is a blogging site managed by techo savy peoples.!
 baseurl: "/my-blogs/" # the subpath of your site, e.g. /blog
 url: "https://vksgaikwad3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vksgaikwad3
 github_username:  vksgaikwad3
 
-# Build settings
+# Added a cutom fields author, copyright
+author: Vikas Gaikwad
+# Need to updatet he theme files in the footer.html file
+copyright: "Tech Talk"
+
+# adding the title logo
+title-logo: /images/title-logo.png 
+
+linkedin_username: vikas-gaikwad-801b0669 
+
+youtube_username: vksgaikwad3
+
+  # Build settings
 theme: minima
 plugins:
   - jekyll-feed
