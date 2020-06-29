@@ -11,3 +11,6 @@ Welcome to my first blog post.
 2. Embedded Sysems.
 3. Software Programming
 4. RTOS
+5. Data Structure
+6. Latest Technologies
+
